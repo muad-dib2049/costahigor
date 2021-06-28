@@ -8,7 +8,7 @@
 
 ## Contato
 
-<a href = "www.linkedin.com/in/HigorvCosta">
+<a href = "https://www.linkedin.com/in/HigorvCosta" target="_blank">
     <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align = "center" height = "50" widith = "60">
 </a>
 
