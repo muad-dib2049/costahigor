@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 <div>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=costahigor&show_icons=true&theme=tokyonight">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costahigor">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=costahigor&show_icons=true&theme=tokyonight">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=costahigor">
 </div>
 
 
-## Contato
+## Contact
 
 <a href = "https://www.linkedin.com/in/HigorvCosta" target="_blank">
     <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align = "center" height = "50" widith = "60">
 </a>
 
-## Linguagens
+## Languages
 
 <div>
     <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" align = "center" height = "50" widith = "60">
